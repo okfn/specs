@@ -31,9 +31,9 @@ following:
 <div class="alert">
 This is a draft specification and still under development. If you have
 comments or suggestions please file them in the issue tracker at:
-<https://github.com/dataprotocols/dataprotocols/issues>. If you have
+<https://github.com/okfn/specs/issues>. If you have
 explicit changes please fork the repo
-(<https://github.com/dataprotocols/dataprotocols>) and submit a pull
+(<https://github.com/okfn/specs>) and submit a pull
 request.
 </div>
 

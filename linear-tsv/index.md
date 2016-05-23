@@ -24,7 +24,7 @@ for standardization.
 
 <div class="alert alert-info" markdown="block">
 If you have comments or suggestions please file them in the issue
-tracker at: <https://github.com/dataprotocols/dataprotocols/issues>.
+tracker at: <https://github.com/okfn/specs/issues>.
 </div>
 
 ### Changelog
