@@ -84,7 +84,7 @@ summary: The highlighter diff format is a format for expressing the difference
 
 ### Changelog
 
-- `0.7` -> `0.8`: Clean up row/column reordering, see [#123](https://github.com/dataprotocols/dataprotocols/issues/123)
+- `0.7` -> `0.8`: Clean up row/column reordering, see [#123](https://github.com/okfn/specs/issues/123)
 
 ### Table of Contents 
 {:.no_toc}

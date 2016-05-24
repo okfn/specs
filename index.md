@@ -11,7 +11,6 @@ interoperability between new and existing tools and services**.
 
 Work topics include:
 
-- Data packages, publication and installation
 - Simple formats for facilitating data exchange over the web
 - Web-oriented data APIs including those for accessing and querying data
 - An overview of sharing and syncing data changes
@@ -48,7 +47,6 @@ We believe there is a clear need for the kinds of lightweight but useful
 protocols and formats for doing things like:
 
 -   Sharing information between data catalogs
--   Packaging data for publication and installation
 -   Sharing and syncing data changes over HTTP
 -   Querying data and databases over the web
 -   Creating web services for data transformation and reconciliation
@@ -93,7 +91,7 @@ Material is kept in a [git repo on github][repo] - fork and submit a pull
 request to add material. There is also an [issue tracker][issues] which can be
 used for specific issues or suggestions.
 
-[forum]: https://discuss.okfn.org/c/open-knowledge-labs/data-packages
-[repo]: https://github.com/dataprotocols/dataprotocols
-[issues]: https://github.com/dataprotocols/dataprotocols/issues
+[forum]: https://discuss.okfn.org/c/open-knowledge-labs
+[repo]: https://github.com/okfn/specs
+[issues]: https://github.com/okfn/specs/issues
 

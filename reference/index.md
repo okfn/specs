@@ -8,7 +8,7 @@ This section is for reference and research information on existing standards tha
 
 We welcome new entries in this reference library. If you would like to submit a summary on an existing standard or suggest an item to include please [open an issue in the issue tracker][issue].
 
-[issue]: https://github.com/dataprotocols/dataprotocols/issues
+[issue]: https://github.com/okfn/specs/issues
 
 # Reference
 
